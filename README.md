@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **MongoDb, Express, NodeJs, React**
 
-- 👨‍💻 All of my projects are available at [https://vercel.com/swapniltrivedi11s-projects](https://vercel.com/swapniltrivedi11s-projects)
+- 👨‍💻 All of my projects are available at <a href="https://vercel.com/swapniltrivedi11s-projects](https://vercel.com/swapniltrivedi11s-projects">AllProjects</a>
 
 - 💬 Ask me about **HTML5, CSS3 ,JavaScript**
 
 - 📫 How to reach me **swapniltrivedi011@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zRRtMVRekKfbt_xlvdgVes41LK92jRAJ/view?usp=drivesdk](https://drive.google.com/file/d/1zRRtMVRekKfbt_xlvdgVes41LK92jRAJ/view?usp=drivesdk)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1zRRtMVRekKfbt_xlvdgVes41LK92jRAJ/view?usp=drivesdk">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
