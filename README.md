@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MongoDb, Express, NodeJs, React**
 
-- 👨‍💻 All of my projects are available at <a href="https://vercel.com/swapniltrivedi11s-projects](https://vercel.com/swapniltrivedi11s-projects">AllProjects</a>
+- 👨‍💻 All of my projects are available at <a href="https://vercel.com/swapniltrivedi11s-projects">AllProjects</a>
 
 - 💬 Ask me about **HTML5, CSS3 ,JavaScript**
 
